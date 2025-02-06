@@ -1,3 +1,5 @@
+// JavaScriptでのクライアントの構築は自分だけでは難しかったため、Naonao3さんのコード(https://github.com/Naonao3/Remote-Procedure-Call)を参考にさせていただきました。
+
 const net = require("net")
 const server_address = "/tmp/json_rpc_socket.sock"
 
