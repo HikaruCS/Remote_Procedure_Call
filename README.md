@@ -12,7 +12,7 @@
 - sort(string[] strArr): 文字列の配列を入力として受け取り、その配列をソートして、ソート後の文字列の配列を返す。
 
 ### 入出力例
-- floor
+- floor<br>
     クライアント
     ```
     Input Method --> floor
@@ -23,7 +23,7 @@
     ```
     { results: 6, result_type: "<class 'int'>", id: '1}
     ```
-- nroot
+- nroot<br>
     クライアント
     ```
     Input Method --> nroot
@@ -34,7 +34,7 @@
     ```
     { results: 4, result_type: "<class 'int'>", id: '2'}
     ```
-- reverse
+- reverse<br>
     クライアント
     ```
     Input Method --> reverse
@@ -45,7 +45,7 @@
     ```
     { results: 'olleh', result_type: "<class 'str'>", id: '2'}
     ```
-- validAnagram
+- validAnagram<br>
     クライアント
     ```
     Input Method --> validAnagram
@@ -56,7 +56,7 @@
     ```
     { results: true, result_type: "<class 'bool'>", id: '4'}
     ```
-- sort
+- sort<br>
     クライアント
     ```
     Input Method --> sort
