@@ -1,6 +1,7 @@
 # Remote Procedure Call
 ## 概要
 異なるプログラミング言語で書かれたクライアントとサーバが共通の方法で通信し、特定の関数を実行できるようにするシステム。
+Recursion (https://recursionist.io/) のバックエンドプロジェクト2で作成したものです。
 
 今回はサーバがPython、クライアントがJavaScript(Node.js)で書かれています。
 
